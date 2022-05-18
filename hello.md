@@ -24,4 +24,4 @@ commit 세이브, 스테이지 영역의 파일들을 가지고 커밋을 만들
 -아주 쉽게 병합가능 = fast forward
 
 ## Version3
-- fastforward
+- fastforward 설명입니다
